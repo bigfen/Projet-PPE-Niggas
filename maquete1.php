@@ -24,7 +24,7 @@
 	</div>
 
 	<div>
-		<input type="submit" value="Valider"/> <input type="reset" value="Remise à Zéro" />
+		<input type="submit" value="Valider" /> <input type="reset" value="Remise à Zéro" />
 	</div>
 
 </form>
