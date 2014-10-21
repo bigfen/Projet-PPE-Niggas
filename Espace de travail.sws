@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?PowerDesigner signature="Workspace" version="15.1.0.2850"?>
+<!-- Veuillez ne pas modifier ce fichier -->
+
+<Workspace>
+	<Local Expanded="Yes">
+		<Model Expanded="Yes" ID="{3A7E265C-533F-4B5F-A888-D0C35ED8C2C1}" Name="ModeleConceptuelDonneesFruitDor" Selected="Yes" Type="{1E597170-9350-11D1-AB3C-0020AF71E433}" URL="/Users/fen/Downloads/ModeleConceptuelDonneesFruitDor.mcd"/>
+	</Local>
+	<BrowserModule Name="Référentiel"/>
+</Workspace>
