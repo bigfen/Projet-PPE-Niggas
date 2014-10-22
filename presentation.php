@@ -1,0 +1,1 @@
+Fruit est une entreprise de bananes.
